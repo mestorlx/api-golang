@@ -1,0 +1,9 @@
+{
+  "zosversion": "2",
+  "name": "diavote",
+  "version": "0.1.0",
+  "contracts": {
+    "Dispute": "Dispute",
+    "DIAToken": "DIAToken"
+  }
+}
